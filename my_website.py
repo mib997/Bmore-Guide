@@ -1,5 +1,5 @@
 """This application uses the flask framework to
-perform back-end functionality for HTML site."""
+perform back-end functionality for my Baltimore tour guide site."""
 
 import datetime
 import logging
